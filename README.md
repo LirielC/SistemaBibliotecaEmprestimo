@@ -5,7 +5,6 @@ O projeto é sobre criar um sistema em que permita que ocorra empréstimo de liv
 
 <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="50" height="50" />
 
-- ![IntelliJ IDEA](https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png)
 
 ## Como usar
 
