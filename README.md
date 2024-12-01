@@ -3,8 +3,8 @@
 O projeto é sobre criar um sistema em que permita que ocorra empréstimo de livros.
 ## Tecnologias usadas
 
-- Java
-- ![IntelliJ IDEA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40AlexanderObregon%2Fcross-platform-development-with-intellij-idea-a-practical-guide-ddc3c22d463f&psig=AOvVaw3TKm4oDGEn9G-WYPOrSCRY&ust=1733182173006000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCasu_ch4oDFQAAAAAdAAAAABAS)
+- ![Java] (https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png?f=webp&w=256)
+- ![IntelliJ IDEA](https://w7.pngwing.com/pngs/747/41/png-transparent-intellij-macos-bigsur-icon-thumbnail.png)
 
 ## Como usar
 
