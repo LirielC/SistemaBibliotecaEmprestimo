@@ -3,7 +3,7 @@
 O projeto é sobre criar um sistema em que permita que ocorra empréstimo de livros.
 ## Tecnologias usadas
 
--![Java](https://banner2.cleanpng.com/20181109/oll/kisspng-java-development-kit-logo-programming-language-por-java-logo-svg-1713924793188.webp)
+-![Java](	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg)
 
 - ![IntelliJ IDEA](https://w7.pngwing.com/pngs/747/41/png-transparent-intellij-macos-bigsur-icon-thumbnail.png)
 
