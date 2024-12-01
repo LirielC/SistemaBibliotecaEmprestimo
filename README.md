@@ -5,7 +5,7 @@ O projeto é sobre criar um sistema em que permita que ocorra empréstimo de liv
 
 -![Java](	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg)
 
-- ![IntelliJ IDEA](https://w7.pngwing.com/pngs/747/41/png-transparent-intellij-macos-bigsur-icon-thumbnail.png)
+- ![IntelliJ IDEA](https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png)
 
 ## Como usar
 
