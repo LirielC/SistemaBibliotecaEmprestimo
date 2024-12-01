@@ -73,3 +73,5 @@ public abstract class Pessoa {
         System.out.print("Senha: ");
         setSenha(sc.nextLine());
     }
+
+}
