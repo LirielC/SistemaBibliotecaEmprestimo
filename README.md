@@ -12,7 +12,7 @@ O projeto é sobre criar um sistema em que permita que ocorra empréstimo de liv
 
 Passos para rodar o projeto:
 1. Vá até o site para baixar a versão mais recente do [Java]( https://www.java.com/pt-BR/download/)
-2. Vá até ao site para baixar a versão mais recente do [JDK]( (https://www.oracle.com/java/technologies/downloads/)
+2. Vá até ao site para baixar a versão mais recente do [JDK](https://www.oracle.com/java/technologies/downloads/)
 3. Faça o download do arquivo jar informado.
 4. Após isso abra o Windows Power Shell
 5. Digite o caminho em que se encontra o .jar
