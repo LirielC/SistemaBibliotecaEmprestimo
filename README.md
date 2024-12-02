@@ -20,5 +20,5 @@ Passos para rodar o projeto:
 ## Segunda maneira
 1. Vá até o meu repositório
 2. Baixe todas as classes
-3. Abra um novo projeto e vai inserindo cada uma das classes
+3. Abra um novo projeto no Intelli J ou qualquer outra IDE Java e vai inserindo cada uma das classes e a interface
 4. Execute
