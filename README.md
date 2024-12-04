@@ -18,7 +18,7 @@ Passos para rodar o projeto:
 6. Digite java -jar "C:\caminho\para\o\SistemaLivros.jar"
 7. Para acessar o menu do usuário é importante digitar o email: joao@email.com e senha: senha123
 8. Para acessar o menu do bibliotecário é importante digitar o email: maria@biblioteca.com e senha: senha456
-9. Para alugar livro digite O Senhor dos Aneis (sem acento pois o windows power shell não conseguiu ler os acentos)
+9. Para alugar livro digite O Senhor dos Anéis(Caso não apareça digite sem acento)
 10. Para digitar o cpf do usuário para testar a função de emprestimo de livro na versão do bibliotecário digite o "cpf" 01709655708 
 ## Segunda maneira (mais recomendado)
 1. Vá até o meu repositório
